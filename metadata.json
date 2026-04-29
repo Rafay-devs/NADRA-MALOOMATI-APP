@@ -1,0 +1,11 @@
+{
+  "name": "NADRA Maloomati App",
+  "description": "A comprehensive Urdu and English voice-enabled assistant for NADRA services and government procedures in Pakistan.",
+  "requestFramePermissions": [
+    "microphone"
+  ],
+  "majorCapabilities": [
+    "multimodal_ai",
+    "voice_processing"
+  ]
+}
